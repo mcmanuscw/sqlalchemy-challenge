@@ -1,3 +1,11 @@
+Please see the file "climate.jpnyb" for the assignment.
+
+
+
+
+
+-----------
+
 # Unit 10 Homework: Surf’s Up
 
 ## Before You Begin
